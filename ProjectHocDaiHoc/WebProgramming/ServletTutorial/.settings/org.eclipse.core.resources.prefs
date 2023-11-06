@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Servlet/AnnotationServlet.java=UTF-8
+encoding//src/main/java/Servlet/ForwardServlet.java=UTF-8
+encoding//src/main/java/Servlet/InfoServlet.java=UTF-8
+encoding//src/main/java/Servlet/InitParam.java=UTF-8
+encoding//src/main/java/Servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/Servlet/RedirectServlet.java=UTF-8
+encoding//src/main/java/Servlet/ShowMeServlet.java=UTF-8
+encoding//src/main/java/Servlet/UserInfoServlet.java=UTF-8

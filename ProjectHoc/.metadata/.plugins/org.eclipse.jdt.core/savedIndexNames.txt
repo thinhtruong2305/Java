@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\Java\ProjectHoc\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+2801987733.index
+3434136297.index
+1865797976.index
+3704743092.index

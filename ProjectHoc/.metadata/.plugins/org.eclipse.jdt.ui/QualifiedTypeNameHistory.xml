@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.border.LineBorder"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicBorders"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForButton"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrame_NewWindow_ForOpenNewWindow"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrame_LaunchWindow_ForOpenNewWindow"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.DimensionUIResource"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForTextField"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForCheckBox"/>
+    <fullyQualifiedTypeName name="Hash_code.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="Hash_Map.DanhSachHocSinh"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="Hash_Map.HocSinh"/>
+    <fullyQualifiedTypeName name="javax.swing.JTable"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="ThuVien.ChuyenDoiNgay"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForRadionButton"/>
+    <fullyQualifiedTypeName name="javax.swing.JRadioButton"/>
+    <fullyQualifiedTypeName name="javax.swing.ButtonGroup"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForRadioButton"/>
+    <fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="GUI_Swing.MyFrameForComboBox"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.io.CharConversionException"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+</qualifiedTypeNameHistroy>
