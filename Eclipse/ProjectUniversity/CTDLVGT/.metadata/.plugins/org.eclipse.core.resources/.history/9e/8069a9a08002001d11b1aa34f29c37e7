@@ -1,0 +1,50 @@
+package GUISwing.MouseListener;
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class MyFrameForMouseListener extends JFrame implements MouseListener{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public MyFrameForMouseListener() {
+		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+		this.setSize(500, 500);
+		this.setLayout(null);
+		this.setVisible(true);
+	}
+
+	@Override
+	public void mouseClicked(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mousePressed(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseReleased(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseEntered(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseExited(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+}

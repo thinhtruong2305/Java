@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\Java\WebProgramming\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1838246281.index
+1307540029.index
+2683685353.index
+202223202.index
+1405952558.index
+3142057773.index
+1965733963.index
+286046925.index

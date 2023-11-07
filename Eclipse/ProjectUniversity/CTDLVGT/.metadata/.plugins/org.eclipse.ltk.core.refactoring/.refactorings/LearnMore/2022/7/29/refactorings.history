@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;icons8-macos-close-50.png, icons8-open-file-under-cursor-50.png, icons8-save-file-50.png&apos; to &apos;LearnMore&apos;" description="Move 3 resources to &apos;LearnMore&apos;" destination="/LearnMore" element1="src/GUISwing/MenuBar/icons8-macos-close-50.png" element2="src/GUISwing/MenuBar/icons8-open-file-under-cursor-50.png" element3="src/GUISwing/MenuBar/icons8-save-file-50.png" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="3" stamp="1657476122765" updateReferences="true"/>
+</session>
