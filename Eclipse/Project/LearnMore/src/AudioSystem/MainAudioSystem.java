@@ -1,14 +1,14 @@
 package AudioSystem;
 
-import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
-import javax.sound.sampled.*;
+import java.util.Scanner;
 
+import javax.sound.sampled.*;
 
 public class MainAudioSystem {
 
-	public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException{
+	public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException {
 		try (// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in)) {
 			File file = new File("Nightcore - Royalty -- Lyrics (online-audio-converter.com).wav");
@@ -28,6 +28,8 @@ public class MainAudioSystem {
 				}
 			}
 		}
+		
+		
 	}
 
 }
