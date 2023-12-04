@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2212891-5c2a-4e35-8a87-88c98d54201c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/InteliJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/TravelGo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/TravelGo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TravelGo/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/on/tap/cuoiki/BaLo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/on/tap/cuoiki/BaLo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/BaiTapTuanHai.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/BaiTapTuanHai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/DemoMang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/DemoMang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/SanPham.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/SanPham.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/ThuBai.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/tienthinh/vn/baitap/ThuBai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/DemoChuoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/DemoChuoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/DemoIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/DemoIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/HocChuoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/HocChuoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan7/ArrayListDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan7/ArrayListDouble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan7/SanPham.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan7/SanPham.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/DemoSelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/DemoSelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/13DCTH02/bin/vn/edu/giadinh/tuan8/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/MainFileWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/MainFileWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/MainReadObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/File_Class/MainReadObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUISwing/ProgressBar/MyFrameForProgressBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUISwing/ProgressBar/MyFrameForProgressBar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUISwing/TextField/MyFrameForTextField.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUISwing/TextField/MyFrameForTextField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUI_Basic/GUI_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GUI_Basic/GUI_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/DanhSachGiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/DanhSachGiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDichTienTe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDichTienTe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDichVang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/CTDLVGT/LearnMore/bin/GiaoDich/GiaoDichVang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOAD/AppCaPhe/bin/Object/ChonDoUong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOAD/AppCaPhe/bin/Object/ChonDoUong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOAD/OOADNhacCu/bin/NhacCu/Guitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOAD/OOADNhacCu/bin/NhacCu/Guitar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/DanhSachPhongHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/DanhSachPhongHoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongHoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongMayTinh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongMayTinh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongThiNghiem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/BaiTap/PhongThiNghiem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/MainSach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/MainSach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/Sach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/Sach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SachGiaoKhoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SachGiaoKhoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SachThamKhao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SachThamKhao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/ThiGiuaKi/SinhVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/MainSanPham.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/MainSanPham.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/MainSinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/MainSinhVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/SanPham.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan2/SanPham.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/ChuNhat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/ChuNhat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienBiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienBiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienIT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienPoLy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/SinhVienPoLy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/Vuong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan3Lab7/Vuong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXeNgoaiThanh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXeNgoaiThanh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXeNoiThanh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/DoiTuong/Tuan6/ChuyenXeNoiThanh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDichDat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDichDat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDichNha.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/GiaoDichNha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/QuanLyGiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/bin/OnTap/QuanLyGiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/src/OnTap/QuanLyGiaoDich.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/13DCTH02.1/src/OnTap/QuanLyGiaoDich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/ATM/ATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/ATM/ATM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Hippo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Lion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Lion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/AnimalDetail/Wolf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/DEMO_ATM/TaiKhoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/DEMO_ATM/TaiKhoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/DEMO_ATM/TestATM.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/DEMO_ATM/TestATM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Game/GuessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Game/GuessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Game/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/DanhSachGiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/DanhSachGiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDich.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDich.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDichTienTe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDichTienTe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDichVang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/GiaoDich/GiaoDichVang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Human/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/Human/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfAnimal/Canine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfAnimal/Canine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfAnimal/Feline.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfAnimal/Feline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/HocVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/HocVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/KhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/KhachHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/NhanVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/OOP/OOPNC/bin/KindOfHuman/NhanVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.9.0-win-x64/node_modules/npm/node_modules/cli-table3/node_modules/is-fullwidth-code-point/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.9.0-win-x64/node_modules/npm/node_modules/cli-table3/node_modules/is-fullwidth-code-point/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.9.0-win-x64/node_modules/npm/node_modules/cli-table3/node_modules/is-fullwidth-code-point/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.9.0-win-x64/node_modules/npm/node_modules/cli-table3/node_modules/is-fullwidth-code-point/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.9.0-win-x64/node_modules/npm/node_modules/cli-table3/node_modules/is-fullwidth-code-point/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Connection/SQLServerJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Connection/SQLServerJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Connection/SQLServerJTDS.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Connection/SQLServerJTDS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Util/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Util/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Util/MyUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/build/classes/Util/MyUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/src/main/java/Util/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JDBCTutorial/src/main/java/Util/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/build/classes/Test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/JSTLTutorial/build/classes/Test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/AnnotationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/AnnotationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/ForwardServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/ForwardServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/InfoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/InfoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/InitParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/InitParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/MyDefaultServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/MyDefaultServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/RedirectServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/RedirectServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/ServletGioHienTai.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/ServletGioHienTai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/UserInfoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/ServletTutorial/build/classes/Servlet/UserInfoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.gradle/7.4.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/MvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalPaymentIntent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalPaymentIntent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalPaymentMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/PaypalPaymentMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Categories/CategoriesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Categories/CategoriesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Order/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Order/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/OrderDetail/OrderDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/OrderDetail/OrderDetailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Product/ProductControll.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/Product/ProductControll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/User/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Admin/User/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Authentication/AuthenticationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Authentication/AuthenticationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/Product/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/Product/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/CheckOutController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/CheckOutController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/ShoppingCart/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/User/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Controller/Client/User/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/DTO/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/DTO/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Brand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Brand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/BrandRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/BrandRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/OrderDetailRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/OrderDetailRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IPaypalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IPaypalService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IShoppingCartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IShoppingCartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IThinhProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/IThinhProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/MyUserDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/MyUserDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/OrderDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/OrderDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/BrandServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/OrderDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/OrderDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/PaypalServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/PaypalServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ShoppingCartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ShoppingCartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ThinhProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/ThinhProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/UserDetailsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Database/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Util/PaypalUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/Util/PaypalUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/WebProjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/main/com/WebProjectApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/test/com/webproject/tutorial/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/test/com/webproject/tutorial/FileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/test/com/webproject/tutorial/WebProjectApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Eclipse/ProjectUniversity/WebProgramming/WebProject-Java-master/WebProject/bin/test/com/webproject/tutorial/WebProjectApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/InteliJ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/Interface/IRollUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/Interface/IStudy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/PrimaryStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/SecondaryStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/TestInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticObjectAndFinal/Model/Utility/MyMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/Interface/IRollUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/Interface/IStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/PrimaryStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/SecondaryStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/InteliJ/Model/Utility/MyMath.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2XnGQqZSErRojD0TesVRVrFGBvZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/Users/admin/Documents/DocumentStudy/HocChuyenSau/Java/InteliJ/Springboots/RestfulAPIAndPostgre",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\Java\InteliJ\File\SourceFile" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainStaticObjectAndFinal">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TravelGo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCollectionAndMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainCollectionAndMap" />
+      <module name="InteliJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStaticObjectAndFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainStaticObjectAndFinal" />
+      <module name="InteliJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code.TestTransient" />
+      <module name="InteliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.main.java.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Main" />
+      <module name="InteliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainStaticObjectAndFinal" />
+        <item itemvalue="Application.src.main.java.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainCollectionAndMap" />
+        <item itemvalue="Application.TestTransient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2212891-5c2a-4e35-8a87-88c98d54201c" name="Changes" comment="" />
+      <created>1699257416516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699257416516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

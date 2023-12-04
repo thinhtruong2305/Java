@@ -5,6 +5,7 @@ import java.util.Date;
 import java.util.Scanner;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import OnTap.GiaoDichDat;
 
 public class QuanLyGiaoDich {
 	private ArrayList<GiaoDich> quanLyGiaoDich;
@@ -54,16 +55,18 @@ public class QuanLyGiaoDich {
 	public void TinhTienTungLoai() {
 		double tienGDD=0;
 		double tienGDN=0;
-		if(quanLyGiaoDich instanceof GiaoDichDat) {
-			tienGDD +=((GiaoDichDat) quanLyGiaoDich).ThanhTien();
-			System.out.println("Tiền Giao Dịch Đất: "+tienGDD);
-		}else {
-			try {
-			tienGDN +=((GiaoDichNha) quanLyGiaoDich).ThanhTien();
-			}catch(ClassCastException cce) {
-				
+		for(GiaoDich giaoDich : quanLyGiaoDich) {
+			if(giaoDich instanceof GiaoDichDat) {
+				tienGDD +=((GiaoDichDat) giaoDich).ThanhTien();
+				System.out.println("Tiền Giao Dịch Đất: "+tienGDD);
+			}else {
+				try {
+					tienGDN +=((GiaoDichNha) giaoDich).ThanhTien();
+				}catch(ClassCastException cce) {
+					System.out.println(cce.getMessage());
+				}
+				System.out.println("Tiền giao dịch nhà: "+tienGDN);
 			}
-			System.out.println("Tiền giao dịch nhà: "+tienGDN);
 		}
 	}
 	

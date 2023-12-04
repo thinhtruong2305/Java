@@ -1,0 +1,160 @@
+scalar Date
+scalar DateTime
+
+schema {
+    query: Query
+    mutation: Mutation
+}
+
+type License{
+    licenseId: ID!
+    licenseName: String!
+    videos: [Video]
+    user: User!
+    createAt: DateTime
+    createBy: String
+    updateAt: DateTime
+    updateBy: String
+    status: Status
+    keyword: String
+    description: String
+    slug: String
+}
+enum Status{
+    DELETED, ACTIVE, INACTIVE
+}
+
+type Role{
+    roleId: ID!
+    roleName: String!
+    users: [User]
+    createAt: DateTime
+    createBy: String
+    updateAt: DateTime
+    updateBy: String
+    status: Status
+}
+
+type User{
+    userId: ID!
+    userName: String!
+    firstName: String!
+    lastName: String!
+    birthDate: Date!
+    email: String!
+    password: String!
+    phoneNumber: String!
+    videos: [Video]
+    roles: [Role]
+    license: License
+    createAt: DateTime
+    createBy: String
+    updateAt: DateTime
+    updateBy: String
+    status: Status
+}
+
+
+
+type Tag{
+    tagId: ID!
+    parentId: ID
+    tagName: String!
+    videos: [Video]
+    createAt: DateTime
+    createBy: String
+    updateAt: DateTime
+    updateBy: String
+    status: Status
+    keyword: String
+    description: String
+    slug: String
+}
+
+type Video{
+    videoId: ID
+    videoPath: String!
+    imagePath: String!
+    videoName: String!
+    episode: Int
+    views: Int
+    tags: [Tag]
+    users: [User]
+    license: License!
+    createAt: DateTime
+    createBy: String
+    updateAt: DateTime
+    updateBy: String
+    status: Status
+    keyword: String
+    description: String
+    slug: String
+}
+
+input RoleSave{
+    roleId: ID
+    roleName: String!
+}
+
+input UserSave{
+    userId: ID
+    userName: String!
+    firstName: String!
+    lastName: String!
+    birthDate: Date!
+    email: String!
+    password: String!
+    phoneNumber: String!
+}
+
+input UserLogin{
+    userNameOrEmail: String!
+    password: String!
+    rememberMe: Boolean
+}
+
+input TagSave{
+    tagId: ID!
+    parentId: ID
+    tagName: String!
+    keyword: String
+    description: String
+}
+
+input VideoSave{
+    videoId: ID
+    videoPath: String!
+    imagePath: String!
+    videoName: String!
+    episode: Int
+    views: Int
+    keyword: String
+    description: String
+}
+
+input LicenseSave{
+    licenseId: ID
+    licenseName: String!
+    keyword: String
+    description: String
+}
+
+
+type Query{
+    #License
+    getLicenses: [License]
+    getLicenseById(licenseId: ID!): License
+    getLicenseByName(licenseName: String!): License
+    #Tag
+    getTags: [Tag]
+    getTagById(tagId: ID!): License
+    #Video
+
+    hello: String
+}
+
+type Mutation{
+    #License
+    saveLicense(license: LicenseSave!): License
+    deleteLicenseById(licenseId: ID!): Boolean
+}

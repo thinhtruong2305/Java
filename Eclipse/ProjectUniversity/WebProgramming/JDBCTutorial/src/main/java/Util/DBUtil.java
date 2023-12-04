@@ -71,7 +71,7 @@ public class DBUtil {
 		return list;
 	}
 	
-	public static Product findProduct(Connection connection, String code) throws SQLException{
-		
-	}
+//	public static Product findProduct(Connection connection, String code) throws SQLException{
+//		
+//	}
 }
